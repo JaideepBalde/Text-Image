@@ -66,9 +66,6 @@ VITE_HUGGINGFACE_TOKEN=your_token_here
 - **AI Models**: Hugging Face Inference API
 - **Deployment**: Vercel/Netlify ready
 
-## 📄 License
-
-MIT License - feel free to use for personal and commercial projects!
 
 ## 🤝 Contributing
 
@@ -78,10 +75,7 @@ MIT License - feel free to use for personal and commercial projects!
 4. Push to the branch
 5. Create a Pull Request
 
-## 📞 Support
-
-For questions or support, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ for the creative community**
+**Made by Jaideep For Jaideep - Jai Hind!**
