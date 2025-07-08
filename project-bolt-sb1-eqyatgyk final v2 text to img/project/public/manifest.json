@@ -1,0 +1,17 @@
+{
+  "name": "AI Image Studio",
+  "short_name": "AI Studio",
+  "description": "Create stunning AI-generated images for free",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#1e1b4b",
+  "categories": ["productivity", "graphics", "utilities"]
+}
